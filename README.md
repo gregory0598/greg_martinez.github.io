@@ -2,7 +2,7 @@
 
 Welcome to my Data Science portfolio! This repository showcases my data science projects (AI/ML), demonstrating my skills and experience in data analysis, machine learning, artifical intelligence, and data visualization.
 
-![Data Science Banner](https://placeimg.com/1000/300/tech)  
+![Data Science Banner](https://www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning.jpg)
 
 ## Projects
 
