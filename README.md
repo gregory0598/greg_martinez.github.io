@@ -2,7 +2,7 @@
 
 Welcome to my Data Science portfolio! This repository showcases my data science projects (AI/ML), demonstrating my skills and experience in data analysis, machine learning, artifical intelligence, and data visualization.
 
-![Data Science Banner](https://placekitten.com/1000/300)  <!-- Replace with an image that represents your data science work -->
+![Data Science Banner](https://placeimg.com/1000/300/tech)  
 
 ## Projects
 
@@ -16,7 +16,7 @@ GitHub Repository: [Link to GitHub Repo](https://github.com/yourusername/project
 
 Demo/Notebook: [Link to Demo/Notebook](https://yourusername.github.io/project1)
 
-![Project 1 Screenshot](https://placekitten.com/600/400) <!-- Replace with a screenshot or visualization from the project -->
+![Project 1 Screenshot](https://placeimg.com/600/400/tech) <!-- Replace with a screenshot or visualization from the project -->
 
 ## About Me
 
